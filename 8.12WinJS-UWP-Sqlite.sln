@@ -1,0 +1,64 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{262852C6-CD72-467D-83FE-5EEB1973A190}") = "8.12WinJS-UWP-Sqlite", "8.12WinJS-UWP-Sqlite\8.12WinJS-UWP-Sqlite.jsproj", "{D46F77B8-E27F-48AF-9DEE-1E2E66C881AD}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SQLiteUniversalWinJS", "SQLiteUniversalWinJS\SQLiteUniversalWinJS.vcxproj", "{63EA21AA-F709-4D20-B200-9B5DCDC5C53A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D46F77B8-E27F-48AF-9DEE-1E2E66C881AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D46F77B8-E27F-48AF-9DEE-1E2E66C881AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D46F77B8-E27F-48AF-9DEE-1E2E66C881AD}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{D46F77B8-E27F-48AF-9DEE-1E2E66C881AD}.Debug|ARM.ActiveCfg = Debug|ARM
+		{D46F77B8-E27F-48AF-9DEE-1E2E66C881AD}.Debug|ARM.Build.0 = Debug|ARM
+		{D46F77B8-E27F-48AF-9DEE-1E2E66C881AD}.Debug|ARM.Deploy.0 = Debug|ARM
+		{D46F77B8-E27F-48AF-9DEE-1E2E66C881AD}.Debug|x64.ActiveCfg = Debug|x64
+		{D46F77B8-E27F-48AF-9DEE-1E2E66C881AD}.Debug|x64.Build.0 = Debug|x64
+		{D46F77B8-E27F-48AF-9DEE-1E2E66C881AD}.Debug|x64.Deploy.0 = Debug|x64
+		{D46F77B8-E27F-48AF-9DEE-1E2E66C881AD}.Debug|x86.ActiveCfg = Debug|x86
+		{D46F77B8-E27F-48AF-9DEE-1E2E66C881AD}.Debug|x86.Build.0 = Debug|x86
+		{D46F77B8-E27F-48AF-9DEE-1E2E66C881AD}.Debug|x86.Deploy.0 = Debug|x86
+		{D46F77B8-E27F-48AF-9DEE-1E2E66C881AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D46F77B8-E27F-48AF-9DEE-1E2E66C881AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D46F77B8-E27F-48AF-9DEE-1E2E66C881AD}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{D46F77B8-E27F-48AF-9DEE-1E2E66C881AD}.Release|ARM.ActiveCfg = Release|ARM
+		{D46F77B8-E27F-48AF-9DEE-1E2E66C881AD}.Release|ARM.Build.0 = Release|ARM
+		{D46F77B8-E27F-48AF-9DEE-1E2E66C881AD}.Release|ARM.Deploy.0 = Release|ARM
+		{D46F77B8-E27F-48AF-9DEE-1E2E66C881AD}.Release|x64.ActiveCfg = Release|x64
+		{D46F77B8-E27F-48AF-9DEE-1E2E66C881AD}.Release|x64.Build.0 = Release|x64
+		{D46F77B8-E27F-48AF-9DEE-1E2E66C881AD}.Release|x64.Deploy.0 = Release|x64
+		{D46F77B8-E27F-48AF-9DEE-1E2E66C881AD}.Release|x86.ActiveCfg = Release|x86
+		{D46F77B8-E27F-48AF-9DEE-1E2E66C881AD}.Release|x86.Build.0 = Release|x86
+		{D46F77B8-E27F-48AF-9DEE-1E2E66C881AD}.Release|x86.Deploy.0 = Release|x86
+		{63EA21AA-F709-4D20-B200-9B5DCDC5C53A}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{63EA21AA-F709-4D20-B200-9B5DCDC5C53A}.Debug|ARM.ActiveCfg = Debug|ARM
+		{63EA21AA-F709-4D20-B200-9B5DCDC5C53A}.Debug|ARM.Build.0 = Debug|ARM
+		{63EA21AA-F709-4D20-B200-9B5DCDC5C53A}.Debug|x64.ActiveCfg = Debug|x64
+		{63EA21AA-F709-4D20-B200-9B5DCDC5C53A}.Debug|x64.Build.0 = Debug|x64
+		{63EA21AA-F709-4D20-B200-9B5DCDC5C53A}.Debug|x86.ActiveCfg = Debug|Win32
+		{63EA21AA-F709-4D20-B200-9B5DCDC5C53A}.Debug|x86.Build.0 = Debug|Win32
+		{63EA21AA-F709-4D20-B200-9B5DCDC5C53A}.Release|Any CPU.ActiveCfg = Release|Win32
+		{63EA21AA-F709-4D20-B200-9B5DCDC5C53A}.Release|ARM.ActiveCfg = Release|ARM
+		{63EA21AA-F709-4D20-B200-9B5DCDC5C53A}.Release|ARM.Build.0 = Release|ARM
+		{63EA21AA-F709-4D20-B200-9B5DCDC5C53A}.Release|x64.ActiveCfg = Release|x64
+		{63EA21AA-F709-4D20-B200-9B5DCDC5C53A}.Release|x64.Build.0 = Release|x64
+		{63EA21AA-F709-4D20-B200-9B5DCDC5C53A}.Release|x86.ActiveCfg = Release|Win32
+		{63EA21AA-F709-4D20-B200-9B5DCDC5C53A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
